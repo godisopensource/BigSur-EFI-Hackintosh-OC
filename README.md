@@ -1,5 +1,5 @@
 # About
-*Note: I have provided an updated (successfull) EFI folder for macOS Ventura 13.0 beta 1 here:*
+*Note: I have provided an updated (successfull) EFI folder for macOS Ventura 13.0 beta 1 here: https://github.com/godisopensource/Ventura-EFI-Hackintosh-OC/blob/main/README.md*
 
 This folder is my own OpenCore EFI folder that is fully functional for the given system configuration on macOS Big Sur:
 - **[Motherboard]** Gigabyte Z390M Gaming
